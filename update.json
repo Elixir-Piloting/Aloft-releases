@@ -1,14 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "- Initial Aloft Windows release.\n- Menu bar, Control Center editor, launcher shortcuts, and app settings.\n- Signed app updates with version-specific release notes.",
-  "pub_date": "2026-10-04T13:11:02Z",
+  "version": "0.1.1",
+  "notes": "- Fix End Task confirmations remaining hidden and blocking other flyouts.\n- Show app window action failures instead of silently discarding them.\n- Add a working Windows Do Not Disturb toggle with availability detection.\n- Remove the Keyboard Brightness widget.\n- Include the curated Control Center layout and promotional link launchers on first run, while preserving existing configurations on update.\n- Add Portfolio, X, Bluesky, Threads, and GitHub Releases links with cached favicons to About.",
+  "pub_date": "2026-10-04T14:39:51.848Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFFOSURRdzRTQ2h5UWRuMEIrYVZiM3FVZXphVTRuSGJVMWllNzNDOUZKR3pVTU9xTHd4M2hGKzgrUmdtSUJZTDVPY0FwWmN5TEU5VlRkMUVkK1QwRHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTE5MjgyCWZpbGU6QWxvZnRfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmRrUVVZd01IUSs3MjdoMmNEQ2FjV2hSbVMwRERJL0FjQUQyRWlQWnZVR3lQVTJ4ZmlYNTJnOEVURk0wZG9WanVsWkN4MURiYkZqTDV0WEtRdDRGTkRnPT0K",
-      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.0/Aloft_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFF6MWlqaFNtSlE5RTdsSjJNN2lOUXVzTVJXNU1xL1RwdkhOUVpVWVZaRUZYc2Fqb256T25LUGdOVndmWDZQdG9zR3RqdHNzRHBScGhIM1VXVmpsQ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI0NzgyCWZpbGU6QWxvZnRfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCk9uSitkK3BKZU53UWlBa2tRd00vdEliRldvMHBxQWRNZHkwTC9wNXZNaGhtL1d3ZkVoTVRyclRwVjI2Z0dQemFkc2ZiOUNDVmVtZGxGclhiTFU4TEFRPT0K",
+      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.1/Aloft_0.1.1_x64-setup.exe"
     }
   },
   "releases": [
+    {
+      "version": "0.1.1",
+      "notes": "- Fix End Task confirmations remaining hidden and blocking other flyouts.\n- Show app window action failures instead of silently discarding them.\n- Add a working Windows Do Not Disturb toggle with availability detection.\n- Remove the Keyboard Brightness widget.\n- Include the curated Control Center layout and promotional link launchers on first run, while preserving existing configurations on update.\n- Add Portfolio, X, Bluesky, Threads, and GitHub Releases links with cached favicons to About.",
+      "pub_date": "2026-10-04T14:39:51.848Z"
+    },
     {
       "version": "0.1.0",
       "notes": "- Initial Aloft Windows release.\n- Menu bar, Control Center editor, launcher shortcuts, and app settings.\n- Signed app updates with version-specific release notes.",
