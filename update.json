@@ -1,14 +1,19 @@
 {
-  "version": "0.1.1",
-  "notes": "- Fix End Task confirmations remaining hidden and blocking other flyouts.\n- Show app window action failures instead of silently discarding them.\n- Add a working Windows Do Not Disturb toggle with availability detection.\n- Remove the Keyboard Brightness widget.\n- Include the curated Control Center layout and promotional link launchers on first run, while preserving existing configurations on update.\n- Add Portfolio, X, Bluesky, Threads, and GitHub Releases links with cached favicons to About.",
-  "pub_date": "2026-10-04T14:39:51.848Z",
+  "version": "0.1.2",
+  "notes": "- Fix updates closing Aloft before Windows starts the installer.\n- Keep the app running and allow retry if the installer cannot launch.\n- Prevent automatic installation from development builds and uninstalled executable copies, with clear guidance in Settings.\n- Preserve signed download verification, download progress, and automatic relaunch after installation.\n\nVersions 0.1.0 and 0.1.1 may require a manual installation of this release because their updater exits too early. Download and run the Windows installer, then open the installed Aloft app.",
+  "pub_date": "2026-10-04T16:27:06.449Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFF6MWlqaFNtSlE5RTdsSjJNN2lOUXVzTVJXNU1xL1RwdkhOUVpVWVZaRUZYc2Fqb256T25LUGdOVndmWDZQdG9zR3RqdHNzRHBScGhIM1VXVmpsQ2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTI0NzgyCWZpbGU6QWxvZnRfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCk9uSitkK3BKZU53UWlBa2tRd00vdEliRldvMHBxQWRNZHkwTC9wNXZNaGhtL1d3ZkVoTVRyclRwVjI2Z0dQemFkc2ZiOUNDVmVtZGxGclhiTFU4TEFRPT0K",
-      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.1/Aloft_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFd1cGUrbm1iZ21TUm1hMzlsc2p6ZU1oZW9TcFQ3UE9uTzgrQnN3MTVhU1FUbW1xSlFTcDhUSk5HeW5YNk9HTzdYQ00xVUZlYmRHRjVJKzFtZ3JHWHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMjA3CWZpbGU6QWxvZnRfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCjVaTnVTRndabHVQT2NUYVRteit2TGhDaHhSUHFaSHFRNkxaNGJYay9EM2dJVmg5bURFaUlHOEU3VXVXbHM1YzZMdjJiWHQ1WnRlWXBqTGN1S3dEVUN3PT0K",
+      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.2/Aloft_0.1.2_x64-setup.exe"
     }
   },
   "releases": [
+    {
+      "version": "0.1.2",
+      "notes": "- Fix updates closing Aloft before Windows starts the installer.\n- Keep the app running and allow retry if the installer cannot launch.\n- Prevent automatic installation from development builds and uninstalled executable copies, with clear guidance in Settings.\n- Preserve signed download verification, download progress, and automatic relaunch after installation.\n\nVersions 0.1.0 and 0.1.1 may require a manual installation of this release because their updater exits too early. Download and run the Windows installer, then open the installed Aloft app.",
+      "pub_date": "2026-10-04T16:27:06.449Z"
+    },
     {
       "version": "0.1.1",
       "notes": "- Fix End Task confirmations remaining hidden and blocking other flyouts.\n- Show app window action failures instead of silently discarding them.\n- Add a working Windows Do Not Disturb toggle with availability detection.\n- Remove the Keyboard Brightness widget.\n- Include the curated Control Center layout and promotional link launchers on first run, while preserving existing configurations on update.\n- Add Portfolio, X, Bluesky, Threads, and GitHub Releases links with cached favicons to About.",
