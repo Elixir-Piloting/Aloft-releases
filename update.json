@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "notes": "- Initial Aloft Windows release.\n- Menu bar, Control Center editor, launcher shortcuts, and app settings.\n- Signed app updates with version-specific release notes.",
-  "pub_date": "2026-10-04T13:11:00.708Z",
+  "pub_date": "2026-10-04T13:11:02Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFFOSURRdzRTQ2h5UWRuMEIrYVZiM3FVZXphVTRuSGJVMWllNzNDOUZKR3pVTU9xTHd4M2hGKzgrUmdtSUJZTDVPY0FwWmN5TEU5VlRkMUVkK1QwRHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTE5MjgyCWZpbGU6QWxvZnRfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmRrUVVZd01IUSs3MjdoMmNEQ2FjV2hSbVMwRERJL0FjQUQyRWlQWnZVR3lQVTJ4ZmlYNTJnOEVURk0wZG9WanVsWkN4MURiYkZqTDV0WEtRdDRGTkRnPT0K",
@@ -12,7 +12,7 @@
     {
       "version": "0.1.0",
       "notes": "- Initial Aloft Windows release.\n- Menu bar, Control Center editor, launcher shortcuts, and app settings.\n- Signed app updates with version-specific release notes.",
-      "pub_date": "2026-10-04T13:11:00.708Z"
+      "pub_date": "2026-10-04T13:11:02Z"
     }
   ]
 }
