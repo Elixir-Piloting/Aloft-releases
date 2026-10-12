@@ -1,14 +1,19 @@
 {
-  "version": "0.1.3",
-  "notes": "- Give the menu bar and Control Center a more consistent set of icons, including clearer Wi-Fi, Bluetooth, battery, and volume states.\n- Show Do Not Disturb, microphone mute, and Keep Awake status on the bar when active.\n- Align the spacing of status icons with clickable bar items.\n- Show the current output device and volume or mute status in the sound tooltip.\n- Simplify the date and clock flyouts and remove the clock's trailing divider.\n- Use matching tooltips throughout Aloft.",
-  "pub_date": "2026-10-12T08:12:01.169Z",
+  "version": "0.1.4",
+  "notes": "- Show a blue indicator when an Aloft update is available.\n- Add an Update Aloft option to the app menu.",
+  "pub_date": "2026-10-12T11:22:31.527Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFJKcVdoVGwrMmFqdHBQdnlDUm5iTUVFd1ptNGVZaWpid2c1Q0JmM0VZSnI1bWt0SVZSMWhWV0tYa3NJU1RIVENNd3FGMjVOR1NrQWN1WGtBU3RxT0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzkyNzEyCWZpbGU6QWxvZnRfMC4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zCi80bjc1TERNeTVabE9RRmxCY3RhQm5wYTF4RWFLQnkrNTRBUk54eEk3N21Tbk5HNWU3Y05zS1pNMDlaUkQ2dE53M0t5eGxUUWxMSU9EYVd5RE54K0JRPT0K",
-      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.3/Aloft-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFpiTjhSZWEvczVPRGIwc0kvVmQ4cUNwb1FvOU9ITUpkcnhOSXJUYlp6RDVTUGJtU093eTlKMjZWVzdhYVdZK1d0Y1cyVU1zZmFqRGh5L09GYTFwRHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODA0MTQzCWZpbGU6QWxvZnRfMC4xLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40CjF4UHlwdDVXUE9EWXdPNmlJUm5uNUVVTDB3TitEaG9JNStlb200Z2VSYlNvOGlyTjNDQ0d2VXowUmYvUW41d1VrK0FHVzVNdVNJa2NFaHIxNjQ2L0NRPT0K",
+      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.4/Aloft-x64.exe"
     }
   },
   "releases": [
+    {
+      "version": "0.1.4",
+      "notes": "- Show a blue indicator when an Aloft update is available.\n- Add an Update Aloft option to the app menu.",
+      "pub_date": "2026-10-12T11:22:31.527Z"
+    },
     {
       "version": "0.1.3",
       "notes": "- Give the menu bar and Control Center a more consistent set of icons, including clearer Wi-Fi, Bluetooth, battery, and volume states.\n- Show Do Not Disturb, microphone mute, and Keep Awake status on the bar when active.\n- Align the spacing of status icons with clickable bar items.\n- Show the current output device and volume or mute status in the sound tooltip.\n- Simplify the date and clock flyouts and remove the clock's trailing divider.\n- Use matching tooltips throughout Aloft.",
