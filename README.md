@@ -1,9 +1,9 @@
 # Aloft
 
 <img width="1920" height="34" alt="image" src="https://github.com/user-attachments/assets/3c440d15-2faa-4791-a6d9-5b4ef7581a18" />
-A macOS-style top bar for Windows.
+A macOS-style menu bar for Windows, with a customizable Control Center, sound controls, and quick access to the settings you use most.
 
-Download the Windows x64 installer from [Releases](https://github.com/Elixir-Piloting/Aloft-releases/releases).
+[Download Aloft for Windows x64](https://github.com/Elixir-Piloting/Aloft-releases/releases/latest/download/Aloft-x64.exe) · [See what's new](https://github.com/Elixir-Piloting/Aloft-releases/releases/latest)
 
 
 
