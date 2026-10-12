@@ -1,14 +1,19 @@
 {
-  "version": "0.1.2",
-  "notes": "- Fix updates closing Aloft before Windows starts the installer.\n- Keep the app running and allow retry if the installer cannot launch.\n- Prevent automatic installation from development builds and uninstalled executable copies, with clear guidance in Settings.\n- Preserve signed download verification, download progress, and automatic relaunch after installation.\n\nVersions 0.1.0 and 0.1.1 may require a manual installation of this release because their updater exits too early. Download and run the Windows installer, then open the installed Aloft app.",
-  "pub_date": "2026-10-04T16:27:06.449Z",
+  "version": "0.1.3",
+  "notes": "- Give the menu bar and Control Center a more consistent set of icons, including clearer Wi-Fi, Bluetooth, battery, and volume states.\n- Show Do Not Disturb, microphone mute, and Keep Awake status on the bar when active.\n- Align the spacing of status icons with clickable bar items.\n- Show the current output device and volume or mute status in the sound tooltip.\n- Simplify the date and clock flyouts and remove the clock's trailing divider.\n- Use matching tooltips throughout Aloft.",
+  "pub_date": "2026-10-12T08:12:01.169Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFd1cGUrbm1iZ21TUm1hMzlsc2p6ZU1oZW9TcFQ3UE9uTzgrQnN3MTVhU1FUbW1xSlFTcDhUSk5HeW5YNk9HTzdYQ00xVUZlYmRHRjVJKzFtZ3JHWHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTMxMjA3CWZpbGU6QWxvZnRfMC4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4yCjVaTnVTRndabHVQT2NUYVRteit2TGhDaHhSUHFaSHFRNkxaNGJYay9EM2dJVmg5bURFaUlHOEU3VXVXbHM1YzZMdjJiWHQ1WnRlWXBqTGN1S3dEVUN3PT0K",
-      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.2/Aloft_0.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFJKcVdoVGwrMmFqdHBQdnlDUm5iTUVFd1ptNGVZaWpid2c1Q0JmM0VZSnI1bWt0SVZSMWhWV0tYa3NJU1RIVENNd3FGMjVOR1NrQWN1WGtBU3RxT0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzkyNzEyCWZpbGU6QWxvZnRfMC4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zCi80bjc1TERNeTVabE9RRmxCY3RhQm5wYTF4RWFLQnkrNTRBUk54eEk3N21Tbk5HNWU3Y05zS1pNMDlaUkQ2dE53M0t5eGxUUWxMSU9EYVd5RE54K0JRPT0K",
+      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.1.3/Aloft-x64.exe"
     }
   },
   "releases": [
+    {
+      "version": "0.1.3",
+      "notes": "- Give the menu bar and Control Center a more consistent set of icons, including clearer Wi-Fi, Bluetooth, battery, and volume states.\n- Show Do Not Disturb, microphone mute, and Keep Awake status on the bar when active.\n- Align the spacing of status icons with clickable bar items.\n- Show the current output device and volume or mute status in the sound tooltip.\n- Simplify the date and clock flyouts and remove the clock's trailing divider.\n- Use matching tooltips throughout Aloft.",
+      "pub_date": "2026-10-12T08:12:01.169Z"
+    },
     {
       "version": "0.1.2",
       "notes": "- Fix updates closing Aloft before Windows starts the installer.\n- Keep the app running and allow retry if the installer cannot launch.\n- Prevent automatic installation from development builds and uninstalled executable copies, with clear guidance in Settings.\n- Preserve signed download verification, download progress, and automatic relaunch after installation.\n\nVersions 0.1.0 and 0.1.1 may require a manual installation of this release because their updater exits too early. Download and run the Windows installer, then open the installed Aloft app.",
