@@ -1,14 +1,19 @@
 {
-  "version": "0.2.0",
-  "notes": "- Arrange menu bar items on the left, center, or right, and add spacers where needed.\n- Place saved website and app shortcuts on the menu bar as well as in Control Center.\n- Reorder items in Settings with smoother dragging. Newly added bar shortcuts appear before the existing status items.\n- Fix the Items settings page scrolling beyond the window.\n- Remove hotkey shortcuts and their recorder after they interfered with normal keyboard input. Previously saved hotkey items are removed from the bar and Control Center when the configuration loads.",
-  "pub_date": "2026-10-12T18:12:59.269Z",
+  "version": "0.3.0",
+  "notes": "- See Codex and Claude Code session and weekly usage on the menu bar when account usage data is available. Individual agent items show the remaining percentage and reset time without opening a flyout.\n- Add an All Agents menu bar item and an AI Usage Control Center tile. The combined view shows only agents with available usage data.\n- Add or remove menu bar items from a new right-click picker that shows how each item looks on the bar. The Items page in Settings uses the same picker and includes saved shortcuts.\n- Drag items directly on the menu bar to rearrange them. Added items now reflow and animate into place instead of overlapping or clipping other items.\n- Open Aloft Settings from the menu bar's right-click menu. Battery and Sound previews in Settings now use live values.\n- Fix flyouts that could remain invisible or stuck while opening, and remove the empty space below the menu bar item picker.",
+  "pub_date": "2026-10-15T16:49:37.862Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFkzWGFMajRYVG5Ka1B4VFhPUjV2dFN4aU9WT0JGWFBzcXBUQkdKeHMzaVpPdnBST05OMDV5b0tMOEljcExJSisyQkJQZ01Va0NWekdnNUdhUktLaWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI4NzY5CWZpbGU6QWxvZnRfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCmNIbmo1WmFQVkFzT0g0WXZWMVNUV21sajQxOGkyR016NGxOd1VmRm5vMnZBdFZCbWU3aFEzYzBLYVVlVWsvc3RuZWRhai9peWRjeEx3amY0Y0tOVkRnPT0K",
-      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.2.0/Aloft-x64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNUZjTmlQdVRBNFVFaGw1TVN3VVdEZE1VeTlUczdBKzYxS2FGMkdSckZKN0ZoNldGTmh0TDBlblVkY2h6VzFTaFZuYlBPTGxxN0x3bUMrYzJ3cWN3b3hqb2F0Zzk4RmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDgyOTY3CWZpbGU6QWxvZnRfMC4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4wCm1pOU5xaGd1OGt1ZldtT1hqcDNmVFJGVkVORnByZTgweEdDa2JzRzdpS0NTbjVtSktRTXluK3ZiTzQ0RHM4R0pqMUV5U2N4WFdqNVJMRVQ4NE5vRUNRPT0K",
+      "url": "https://github.com/Elixir-Piloting/Aloft-releases/releases/download/v0.3.0/Aloft-x64.exe"
     }
   },
   "releases": [
+    {
+      "version": "0.3.0",
+      "notes": "- See Codex and Claude Code session and weekly usage on the menu bar when account usage data is available. Individual agent items show the remaining percentage and reset time without opening a flyout.\n- Add an All Agents menu bar item and an AI Usage Control Center tile. The combined view shows only agents with available usage data.\n- Add or remove menu bar items from a new right-click picker that shows how each item looks on the bar. The Items page in Settings uses the same picker and includes saved shortcuts.\n- Drag items directly on the menu bar to rearrange them. Added items now reflow and animate into place instead of overlapping or clipping other items.\n- Open Aloft Settings from the menu bar's right-click menu. Battery and Sound previews in Settings now use live values.\n- Fix flyouts that could remain invisible or stuck while opening, and remove the empty space below the menu bar item picker.",
+      "pub_date": "2026-10-15T16:49:37.862Z"
+    },
     {
       "version": "0.2.0",
       "notes": "- Arrange menu bar items on the left, center, or right, and add spacers where needed.\n- Place saved website and app shortcuts on the menu bar as well as in Control Center.\n- Reorder items in Settings with smoother dragging. Newly added bar shortcuts appear before the existing status items.\n- Fix the Items settings page scrolling beyond the window.\n- Remove hotkey shortcuts and their recorder after they interfered with normal keyboard input. Previously saved hotkey items are removed from the bar and Control Center when the configuration loads.",
